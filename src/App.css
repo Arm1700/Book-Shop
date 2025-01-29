@@ -4,17 +4,7 @@ body {
   background-color: black;
 }
 
-<<<<<<< HEAD
-
-
-
-
-
-/* J_Myan */
-
-=======
-/* Arman */
->>>>>>> 17d2bb3bf84209fadacd033f7cf41354ea2ea75e
+/* Merged changes from J_Myan and Arman */
 #root {
   width: 100vw;
   height: 100vmin;
