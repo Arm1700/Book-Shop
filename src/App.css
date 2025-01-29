@@ -16,6 +16,8 @@ body {
   position: fixed;
 }
 
+/* Noro */
+
 #klor {
   background: linear-gradient(235deg, rgb(19, 157, 170), rgb(9, 5, 53), black);
 }
