@@ -4,6 +4,7 @@ body {
   background-color: black;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -11,6 +12,9 @@ body {
 
 /* J_Myan */
 
+=======
+/* Arman */
+>>>>>>> 17d2bb3bf84209fadacd033f7cf41354ea2ea75e
 #root {
   width: 100vw;
   height: 100vmin;
@@ -21,6 +25,8 @@ body {
   /* overflow-y: scroll; */
   position: fixed;
 }
+
+/* Noro */
 
 #klor {
   background: linear-gradient(235deg, rgb(19, 157, 170), rgb(9, 5, 53), black);
