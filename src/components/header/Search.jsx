@@ -1,5 +1,3 @@
-import { FaSearch } from "react-icons/fa";
-
 export default function JustClick({ searched, setSearched }) {
   const isSearch = () => setSearched(prev => !prev)
   return (
