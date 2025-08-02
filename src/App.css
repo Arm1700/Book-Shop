@@ -97,8 +97,8 @@ body {
 } */
 
 #history{
-  white-space: pre-wrap;
   /* word-wrap: break-word; */
+  white-space: pre-wrap;
   text-align: justify;
   font-size: 2vmin;
 }

@@ -51,7 +51,7 @@ export default function Header() {
             flex justify-center pt-3 center hover:shadow-inner hover:shadow-black
             transition-all ease-in duration-[0.9s] hover:bfg-blue-800 hover:scale-[1.01]
             ">
-                        <NavLink to="/home">Home</NavLink>
+                        <NavLink to="/home">Library</NavLink>
                     </div>
                     <div className=" bg-blue-800 shadow-inner	
             transition-all ease-in duration-[0.9s] hover:bg-blue-700
@@ -88,7 +88,7 @@ export default function Header() {
                 </div>
                 <div className="justify-end  absolute
                 bottom-0 left-0 p-2">
-                    @Something
+                    @Copyright
                 </div>
             </div>
 

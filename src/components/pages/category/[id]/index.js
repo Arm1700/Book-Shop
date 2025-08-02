@@ -31,7 +31,7 @@ export default function Book() {
             <div id="currentBook"
                 className="flex flex-col justify-center items-center ">
                 <Box book={book} />
-                {Histories(id)}
+                {Histories(id)} 
             </div>
             <div className="h-[100vh] frontBooks">
                 {
